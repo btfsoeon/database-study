@@ -1,1 +1,2 @@
-# database-study
+# Infrastructure studies
+Come visit wiki!
